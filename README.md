@@ -1,5 +1,5 @@
 # one-terminal 🖥
-One app to bring all your connections and bind them 🪢.
+#### One app to bring all your connections and bind them 🪢.
 
 
 Royal TS is an app for Mac and Windows that supports different types of connections (SSH, SFTP, VNC and RDP).   
