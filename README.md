@@ -16,7 +16,7 @@ Coolest features: vertical tabs to work simultaneously across servers and an Ove
 <img src="https://github.com/ChangLab/one-terminal/blob/main/resources/Image1.png">  
 
 Download the macOS version from [here](https://www.royalapps.com/ts/mac/download).  
-The connections file from [here](https://github.com/ChangLab/one-terminal/blob/main/resources/Connections.rtsz).
+Download connections file from [here](https://github.com/ChangLab/royal-terminal/blob/main/resources/StanfordConnections.rtsz).
 
 Install Royal TSX, open the app, from the menu bar (macOS): 
 1. Install Plugins: Royal TSX > Plugins > install Terminal and File Transfer. Any other you may want. 
