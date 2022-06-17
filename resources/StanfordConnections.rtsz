@@ -117,6 +117,7 @@
     <ConnectionType>custom;Custom Commands</ConnectionType>
     <IsTelnetConnection>False</IsTelnetConnection>
     <IsSerialPortConnection>False</IsSerialPortConnection>
+    <KeepTerminalContentOnDisconnect>True</KeepTerminalContentOnDisconnect>
     <Port>22</Port>
     <Description />
     <PhysicalAddress />
@@ -158,6 +159,8 @@
     <ConnectionType>ssh;SSH</ConnectionType>
     <IsTelnetConnection>False</IsTelnetConnection>
     <IsSerialPortConnection>False</IsSerialPortConnection>
+    <KeepAliveInterval>60</KeepAliveInterval>
+    <KeepTerminalContentOnDisconnect>True</KeepTerminalContentOnDisconnect>
     <Port>22</Port>
     <Description />
     <PhysicalAddress />
@@ -210,6 +213,8 @@
     <ConnectionType>ssh;SSH</ConnectionType>
     <IsTelnetConnection>False</IsTelnetConnection>
     <IsSerialPortConnection>False</IsSerialPortConnection>
+    <KeepAliveInterval>60</KeepAliveInterval>
+    <KeepTerminalContentOnDisconnect>True</KeepTerminalContentOnDisconnect>
     <Port>22</Port>
     <Description />
     <PhysicalAddress />
@@ -262,6 +267,8 @@
     <ConnectionType>ssh;SSH</ConnectionType>
     <IsTelnetConnection>False</IsTelnetConnection>
     <IsSerialPortConnection>False</IsSerialPortConnection>
+    <KeepAliveInterval>60</KeepAliveInterval>
+    <KeepTerminalContentOnDisconnect>True</KeepTerminalContentOnDisconnect>
     <Port>22</Port>
     <Description />
     <PhysicalAddress />
@@ -314,6 +321,8 @@
     <ConnectionType>ssh;SSH</ConnectionType>
     <IsTelnetConnection>False</IsTelnetConnection>
     <IsSerialPortConnection>False</IsSerialPortConnection>
+    <KeepAliveInterval>60</KeepAliveInterval>
+    <KeepTerminalContentOnDisconnect>True</KeepTerminalContentOnDisconnect>
     <Port>22</Port>
     <Description />
     <PhysicalAddress />
